@@ -1,2 +1,3 @@
 this is my second file
 it is a rather delightful file
+this is now the end
